@@ -66,3 +66,7 @@ This repository is a copy of the team's showcase site, originally published at
 [ramyak-sharma/lidar-denoising-showcase](https://github.com/ramyak-sharma/lidar-denoising-showcase)
 ([live](https://ramyak-sharma.github.io/lidar-denoising-showcase/)). All work is
 the joint output of the five contributors above.
+
+## License
+
+Released under the [MIT License](LICENSE), © 2026 the contributors listed above.
